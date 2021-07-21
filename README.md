@@ -2,7 +2,7 @@
 ### Just testing this feature right now
 ### My stack
 - C# (ASP.NET Core) - backend
-- JavaScript (Vanila, React, Svetle) - frontend
+- JavaScript (Vanila, React, Svetle, Angular) - frontend
 - PostgreSQL / MS SQL / MongoDB - data bases
 <!--
 **daniilda/daniilda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
