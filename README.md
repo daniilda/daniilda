@@ -1,20 +1,13 @@
-### Hi there 👋
-### Just testing this feature right now
-### My stack
-- C# (ASP.NET Core) - backend
-- JavaScript (Vanila, React, Svetle, Angular) - frontend
+### Currently
+#### Studying as:
+- Undergraduate at NUST "MISIS", Moscow (Computer Science Major / Class of 2024) 
+#### Working as:
+- Part-time GameDev (Unity) teacher at [Kodland](https://www.kodland.org/en/home)
+### My dev stack:
+#### Backend:
+- C# (ASP.NET Core)
+#### Frontend:
+- JavaScript (Vanila, React, Svetle, Angular)
+#### DBs:
 - PostgreSQL / MS SQL / MongoDB - data bases
-<!--
-**daniilda/daniilda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
