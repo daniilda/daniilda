@@ -1,8 +1,9 @@
 ### Currently
 #### Studying as:
-- Undergraduate at NUST "MISIS", Moscow (Computer Science Major / Class of 2024) 
+- NUST "MISIS" undergraduate student, Moscow (Computer Science Major / Class of 2024) 
 #### Working as:
 - Part-time GameDev (Unity) teacher at [Kodland](https://www.kodland.org/en/home)
+- Full-time Trainee C# Developer at [Ozon](https://ozon.ru/)
 ### My dev stack:
 #### Backend:
 - C# (ASP.NET Core)
