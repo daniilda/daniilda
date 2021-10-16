@@ -45,6 +45,6 @@ public class Me
 
 The best and fastest way to contact me is [Telegram](https://t.me/daniilda),</br>
 you also can try reach me out by my [VK](https://vk.com/daniilda),</br>
-and the most desperate option is emailing me: [daniilda@hotmail.com or daniilda@toxicode.xyz or daniilda1111@gmail.com]
+and the most desperate option is emailing me: [daniilda@hotmail.com]
 
 
