@@ -17,11 +17,10 @@ public class Me
   string _nickname = "daniilda🌈";
   int _age = 20;
   string[] _code = new [] {"C#", "TypeScript", "SQL", "HTML", "CSS"};
-  string[] _frameworksAndLibrariesBack = new [] {"ASP.NET Core", "xUnit"};
-  string[] _frameworksAndLibrariesFront = new [] {"React", "Redux", 
-  "Vue", "Node", "Express", "NextJS", "Styled-Components", "Blazor"};
+  string[] _frameworksAndLibrariesBack = new [] {"ASP.NET Core"};
+  string[] _frameworksAndLibrariesFront = new [] {"React", "Blazor"};
   string[] _tools = new [] {"Docker", "Kubernetes", "Git", "PostgreSQL", "MSSQL", "MongoDB", "gRPC", "Kafka"};
-  string[] _toLearn = new [] {"lots of things..."}
+  string[] _toLearn = new [] {"Flutter + Dart", "Vue"}
   
   public MySetup GetMySetup()
   {
