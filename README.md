@@ -20,7 +20,7 @@ public class Me
   string[] _frameworksAndLibrariesBack = new [] {"ASP.NET Core"};
   string[] _frameworksAndLibrariesFront = new [] {"React", "Blazor"};
   string[] _tools = new [] {"Docker", "Kubernetes", "Git", "PostgreSQL", "MSSQL", "MongoDB", "gRPC", "Kafka"};
-  string[] _toLearn = new [] {"Flutter + Dart", "Vue"}
+  string[] _toLearn = new [] {"Flutter + Dart", "Vue", "Python", "Golang"}
   
   public MySetup GetMySetup()
   {
