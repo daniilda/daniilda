@@ -31,7 +31,7 @@ public class Me
       Laptop = "Xiaomi Notebook Pro 2018 I7",
       Keyboard = Keycron K6,
       Mouse = null,
-      IDEs = "JetBrains' Rider \\ WebStorm \\ DataGrip"  
+      IDEs = "JetBrains IDEs"  
       
     }
     
