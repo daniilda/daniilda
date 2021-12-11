@@ -23,9 +23,7 @@ public class Me
   var _toLearn = new [] {"Flutter + Dart", "Vue", "Python", "Golang"}
   
   public MySetup GetMySetup()
-  {
-  
-    var setup = new MySetup()
+    => new MySetup
     {
     
       Laptop = "Xiaomi Notebook Pro 2018 I7",
@@ -34,10 +32,6 @@ public class Me
       IDEs = "JetBrains IDEs"  
       
     }
-    
-    return setup;
-    
-  }
   
 }
 ```
