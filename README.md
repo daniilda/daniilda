@@ -14,13 +14,13 @@
 public class Me
 {
 
-  string _nickname = "daniilda🌈";
-  int _age = 20;
-  string[] _code = new [] {"C#", "TypeScript", "SQL", "HTML", "CSS"};
-  string[] _frameworksAndLibrariesBack = new [] {"ASP.NET Core"};
-  string[] _frameworksAndLibrariesFront = new [] {"React", "Blazor"};
-  string[] _tools = new [] {"Docker", "Kubernetes", "Git", "PostgreSQL", "MSSQL", "MongoDB", "gRPC", "Kafka"};
-  string[] _toLearn = new [] {"Flutter + Dart", "Vue", "Python", "Golang"}
+  var _nickname = "daniilda🌈";
+  var _age = 20;
+  var _code = new [] {"C#", "TypeScript", "SQL", "HTML", "CSS"};
+  var _frameworksAndLibrariesBack = new [] {"ASP.NET Core"};
+  var _frameworksAndLibrariesFront = new [] {"React", "Blazor"};
+  var _tools = new [] {"Docker", "Kubernetes", "Git", "PostgreSQL", "MSSQL", "MongoDB", "gRPC", "Kafka"};
+  var _toLearn = new [] {"Flutter + Dart", "Vue", "Python", "Golang"}
   
   public MySetup GetMySetup()
   {
