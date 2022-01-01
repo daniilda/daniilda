@@ -28,7 +28,7 @@ public class Me
     
       Laptop = "Xiaomi Notebook Pro 2018 I7",
       Keyboard = Keycron K6,
-      Mouse = null,
+      Mouse = Logitech MX Master 3,
       IDEs = "JetBrains IDEs"  
       
     }
