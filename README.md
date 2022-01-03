@@ -15,7 +15,7 @@ public class Me
 {
 
   var _nickname = "daniilda🌈";
-  var _age = 20;
+  var _age = 21;
   var _code = new [] {"C#", "TypeScript", "SQL", "HTML", "CSS"};
   var _frameworksAndLibrariesBack = new [] {"ASP.NET Core"};
   var _frameworksAndLibrariesFront = new [] {"React", "Blazor"};
