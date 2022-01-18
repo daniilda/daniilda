@@ -20,7 +20,7 @@ public class Me
   var _frameworksAndLibrariesBack = new [] {"ASP.NET Core"};
   var _frameworksAndLibrariesFront = new [] {"React", "Blazor"};
   var _tools = new [] {"Docker", "Kubernetes", "Git", "PostgreSQL", "MSSQL", "MongoDB", "gRPC", "Kafka"};
-  var _toLearn = new [] {"Flutter + Dart", "Vue", "Python", "Golang"}
+  var _toLearn = new [] {"Vue", "Flutter + Dart", "Golang"}
   
   public MySetup GetMySetup()
     => new MySetup
