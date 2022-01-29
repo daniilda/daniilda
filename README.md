@@ -14,13 +14,13 @@
 public class Me
 {
 
-  var _nickname = "daniilda🌈";
-  var _age = 21;
-  var _code = new [] {"C#", "TypeScript", "SQL", "HTML", "CSS"};
-  var _frameworksAndLibrariesBack = new [] {"ASP.NET Core"};
-  var _frameworksAndLibrariesFront = new [] {"React", "Blazor"};
-  var _tools = new [] {"Docker", "Kubernetes", "Git", "PostgreSQL", "MSSQL", "MongoDB", "gRPC", "Kafka"};
-  var _toLearn = new [] {"Vue", "Flutter + Dart", "Golang"}
+  private readonly string _nickname = "daniilda🌈";
+  private readonly int _age = 21;
+  private readonly string[] _code = new [] {"C#", "TypeScript", "SQL", "HTML", "CSS"};
+  private readonly string[] _frameworksAndLibrariesBack = new [] {"ASP.NET Core"};
+  private readonly string[] _frameworksAndLibrariesFront = new [] {"React", "Blazor"};
+  private readonly string[] _tools = new [] {"Docker", "Kubernetes", "Git", "PostgreSQL", "MSSQL", "MongoDB", "gRPC", "Kafka"};
+  private readonly string[] _toLearn = new [] {"Vue", "Flutter + Dart", "Golang"}
   
   public MySetup GetMySetup()
     => new MySetup
@@ -38,6 +38,7 @@ public class Me
 
 The best and fastest way to contact me is [Telegram](https://t.me/daniilda),</br>
 you also can try reach me out by my [VK](https://vk.com/daniilda),</br>
-and the most desperate option is emailing me: [daniilda@hotmail.com]
+and the most desperate option is emailing me: [daniilda@hotmail.com] </br></br>
+Most of my current work is being done in there ----> [ToxiCode](https://github.com/mToxicCode)
 
 
