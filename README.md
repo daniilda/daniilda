@@ -26,7 +26,7 @@ public class Me
     => new MySetup
     {
     
-      Laptop = "Xiaomi Notebook Pro 2018 I7",
+      Laptop = "Macbook M1 Pro '14",
       Keyboard = Keycron K6,
       Mouse = Logitech MX Master 3,
       IDEs = "JetBrains IDEs"  
