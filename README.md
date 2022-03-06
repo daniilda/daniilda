@@ -2,7 +2,6 @@
 <img align='right' src="https://media1.giphy.com/media/10dn7LeiXvMULK/giphy.gif?cid=ecf05e47r6yfdyvyerz5768job8l1ricehnf9pd38ulu1c4s&rid=giphy.gif&ct=g" width="230">
 <p><em>Undergraduate student at <a href="https://en.misis.ru/">National University of Science and Technologies "MISIS"</a>, majoring in CS</br>.NET developer at <a href="https://ozon.dev/">Ozon Tech</a>
 </br>
-:ukraine:
 </em></p>
 
 
@@ -37,6 +36,8 @@ public class Me
   
 }
 ```
+
+:ru: STOP THE WAR :ukraine:
 
 The best and fastest way to contact me is [Telegram](https://t.me/daniilda),</br>
 you also can try reach me out by my [VK](https://vk.com/daniilda),</br>
