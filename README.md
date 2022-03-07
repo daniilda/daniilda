@@ -37,7 +37,7 @@ public class Me
 }
 ```
 
-:ru: STOP THE WAR :ukraine:
+:ru: MAKE PEACE NOT WAR :ukraine:
 
 The best and fastest way to contact me is [Telegram](https://t.me/daniilda),</br>
 you also can try reach me out by my [VK](https://vk.com/daniilda),</br>
