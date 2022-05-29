@@ -20,8 +20,8 @@ public class Me
   private readonly string[] _code = new [] {"C#", "TypeScript", "SQL", "HTML", "CSS"};
   private readonly string[] _frameworksAndLibrariesBack = new [] {"ASP.NET Core"};
   private readonly string[] _frameworksAndLibrariesFront = new [] {"React", "Blazor", "Vue"};
-  private readonly string[] _tools = new [] {"Docker", "Kubernetes", "Git", "PostgreSQL", "MSSQL", "MongoDB", "gRPC", "Kafka"};
-  private readonly string[] _toLearn = new [] {"Flutter + Dart"}
+  private readonly string[] _tools = new [] {"Docker", "Kubernetes", "Git", "PostgreSQL", "MSSQL", "MongoDB", "gRPC", "Kafka", "Redis"};
+  private readonly string[] _toLearn = new [] {"Flutter + Dart", "Go"}
   
   public MySetup GetMySetup()
     => new MySetup
