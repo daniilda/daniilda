@@ -21,7 +21,7 @@ public class Me
   private readonly string[] _frameworksAndLibrariesBack = new [] {"ASP.NET Core"};
   private readonly string[] _frameworksAndLibrariesFront = new [] {"React", "Blazor", "Vue"};
   private readonly string[] _tools = new [] {"Docker", "Kubernetes", "Git", "PostgreSQL", "MSSQL", "MongoDB", "gRPC", "Kafka", "Redis"};
-  private readonly string[] _toLearn = new [] {"Flutter + Dart", "Go"}
+  private readonly string[] _toLearn = new [] {"Go", "Unreal Engine"}
   
   public MySetup GetMySetup()
     => new MySetup
@@ -37,11 +37,10 @@ public class Me
 }
 ```
 
-:ru: MAKE PEACE NOT WAR :ukraine:
+Contact me: </br>
+[Telegram](https://t.me/daniilda)</br>
+[LinkedIn](https://www.linkedin.com/in/daniilda/)</br>
+[daniilda@hotmail.com] </br>
 
-The best and fastest way to contact me is [Telegram](https://t.me/daniilda),</br>
-you also can try reach me out by my [VK](https://vk.com/daniilda),</br>
-and the most desperate option is emailing me: [daniilda@hotmail.com] </br></br>
-Most of my current work is being done in there ----> [ToxiCode](https://github.com/mToxicCode)
 
 
