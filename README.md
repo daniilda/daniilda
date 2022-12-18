@@ -1,9 +1,9 @@
-<h2> Hi, My name is Dan!
-<p><em>Undergraduate student at <a href="https://en.misis.ru/">National University of Science and Technologies "MISIS"</a>, majoring in CS</br>.NET developer at <a href="https://ozon.dev/">Ozon Tech</a>
+<h2> Hi, My name is Dan! 
 </br>
-</em></p>
-
-
+</br>
+<p><em>Undergraduate student at <a href="https://en.misis.ru/">National University of Science and Technologies "MISIS"</a>, majoring in CS
+</br>
+</br>.NET developer at <a href="https://ozon.dev/">Ozon Tech</a>
 
 </br>
 
@@ -13,7 +13,8 @@
 ```C#
 public class Me
 {
-
+  
+  private readonly string _fullName = "Daniil Kuznetsov"
   private readonly string _nickname = "daniilda🌈";
   private readonly int _age = 21;
   private readonly string[] _code = new [] {"C#", "TypeScript", "SQL", "HTML", "CSS"};
@@ -39,7 +40,7 @@ public class Me
 Contact me: </br>
 [Telegram](https://t.me/daniilda)</br>
 [LinkedIn](https://www.linkedin.com/in/daniilda/)</br>
-[daniilda@hotmail.com] </br>
+daniilda@hotmail.com </br>
 
 
 
