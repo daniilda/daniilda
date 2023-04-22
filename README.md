@@ -14,9 +14,9 @@
 public class Me
 {
   
-  private readonly string _fullName = "Daniil Kuznetsov"
+  private readonly string _fullName = "Daniil Kuznetsov";
   private readonly string _nickname = "daniilda🌈";
-  private readonly int _age = 21;
+  private readonly int _age = 22;
   private readonly string[] _code = new [] {"C#", "TypeScript", "SQL", "HTML", "CSS"};
   private readonly string[] _frameworksAndLibrariesBack = new [] {"ASP.NET Core"};
   private readonly string[] _frameworksAndLibrariesFront = new [] {"React", "Blazor", "Vue"};
