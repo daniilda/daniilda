@@ -1,7 +1,5 @@
 <h2> Hi, My name is Dan! 
 </br>
-</br>
-</br>
 </br>Team Lead at <a href="https://ozon.dev/">Ozon Tech</a>
 
 </br>
