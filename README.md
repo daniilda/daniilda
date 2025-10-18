@@ -1,6 +1,6 @@
 <h2> Hi, My name is Dan! 
 </br>
-</br>Team Lead at <a href="https://ozon.dev/">Ozon Tech</a>
+</br>Lead Developer at <a href="https://ozon.dev/">Ozon Tech</a>
 
 </br>
 
@@ -13,7 +13,7 @@ public class Me
   
   private readonly string _fullName = "Daniil Kuznetsov";
   private readonly string _nickname = "daniilda🌈";
-  private readonly int _age = 23;
+  private readonly int _age = 25;
   private readonly string[] _code = new [] {"C#", "TypeScript", "SQL", "Go", "HTML", "CSS"};
   private readonly string[] _frameworksAndLibrariesBack = new [] {"ASP.NET Core"};
   private readonly string[] _frameworksAndLibrariesFront = new [] {"React", "Blazor", "Vue"};
